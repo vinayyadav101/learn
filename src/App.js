@@ -3,6 +3,7 @@ import Button, { displayText } from "./button"
 import Hader from './Hader'
 import List from "./List"
 import IncAndDec from "./Hooks"
+import OddAndEven from "./ConditionalRandering"
 
 
 function App(){
@@ -14,6 +15,7 @@ function App(){
             <Person name="dipak" age="22"/>
             <Button text="vinay" onClick={()=>displayText("text")}/>
             <IncAndDec />
+            <OddAndEven />
         </>
     )
 }

@@ -1,0 +1,31 @@
+/* *{
+    margin: 0;
+}
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.loginAndSingUp{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+h1{
+    margin: 10% 0 10% 0;
+    font-size: 40px;
+}
+input{
+    margin: 4% 0 4% 0;
+    height: 3vh;
+    font-size: 3vh;
+    padding: 2%;
+}
+button{
+    margin: 4% 0 4% 0;
+    height: 5vh;
+    font-size: 2vh;
+} */
